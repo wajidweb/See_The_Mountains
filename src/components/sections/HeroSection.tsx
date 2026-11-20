@@ -145,7 +145,7 @@ export function HeroSection() {
           variants={cinematicTextReveal}
           className="max-w-2xl mx-auto text-base sm:text-lg md:text-xl text-sand-100 mb-10 leading-relaxed font-normal drop-shadow-xs"
         >
-          From crystal lakes to soaring peaks, we make exploring northern Pakistan simple, memorable, and accessible for everyone.
+          Explore breathtaking valleys, crystal clear lakes, and snowy peaks with easy trips planned for an unforgettable adventure.
         </motion.p>
 
         {/* Animated 2 Action Buttons */}
